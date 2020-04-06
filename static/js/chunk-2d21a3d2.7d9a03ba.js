@@ -1,0 +1,2 @@
+(window["webpackJsonp_linqin"]=window["webpackJsonp_linqin"]||[]).push([["chunk-2d21a3d2"],{bb51:function(n,e,t){"use strict";t.r(e);var i=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"home tc"},[n._v("welcome to linqin's website!")])},l=[],s={name:"Home"},c=s,a=t("2877"),o=Object(a["a"])(c,i,l,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d21a3d2.7d9a03ba.js.map
